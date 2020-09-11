@@ -1,1 +1,1 @@
-Text file with explanation
+Text file with explanationAdd second line
